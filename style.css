@@ -22,11 +22,6 @@ a {
     border:0;
 }
 
-.no-svg .logo {
-  height: 55px;
-  background-image: url(img/Chaosknoten.jpg);
-}
-
 @media print{
 	body{
 		max-width:none
